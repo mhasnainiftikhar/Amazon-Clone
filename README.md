@@ -1,1 +1,3 @@
 # Amazone-Clone
+HTML
+CSS
